@@ -22,8 +22,8 @@ let cards = [
 {
   artName: "Wind Effect on Leaf",
   pageLink: "./Art/MaryShodiya/index.html",
-  imageLink: "./Art/MaryShodiya/wind on leaf.jpeg/",
-  author: "MaryShodiya",
+  imageLink: "./Art/MaryShodiya/wind-on-leaf.gif",
+  author: "Mary Shodiya",
   githubLink: "https://github.com/MaryShodiya",
 },
   {
